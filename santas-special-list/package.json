@@ -1,5 +1,5 @@
 {
-  "name": "adventofts",
+  "name": "santas-special-list",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -7,10 +7,5 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "type-testing": "^0.2.0",
-    "santas-special-list": "link:santas-special-list"
   }
 }
-
